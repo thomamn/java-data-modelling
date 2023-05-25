@@ -34,9 +34,7 @@ Design a simplified booking system for this epic.
 
 Come up with User Stories (and possibly a more detailed Epic) for each of the following scenarios. The design the database tables and relationships which would be needed to implement them.
 
-1. A local candle maker wants to open an online store selling their handmade candles and other artifacts, they need a database system to use as part of this online shop. Details of customers need to be stored, products need to be stored and updated, a record of customer orders also needs to be maintained.
-
-Design database system for the Candle Shop.
+1. A local candle maker wants to open an online store selling their handmade candles and other artifacts, they need a database system to use as part of this online shop. Details of customers need to be stored, products need to be stored and updated, a record of customer orders also needs to be maintained. Design the database system for the Candle Shop.
 
 2. A restaurant wants to introduce an online booking system for their main dining room, which has various tables. The restaurant is open throughout the day so customers can book for a variety of times.
 
