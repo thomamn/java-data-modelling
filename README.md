@@ -5,14 +5,14 @@
 - Use user stories to design conceptual data models
 - Use conceptual data models to design logical data models
 - Use logical data models to design physical data models
-- 
+
 ## Instructions
 
-For the repo as normal.
+Fork the repo as normal.
 
 Create the Entity-Relationship Diagrams using whichever tool you feel works best for you.
 
-Once you have a solution for each activity add it to this repo.
+Once you have a solution for each activity add it to this repo as an image.
 
 Push your repo once you have completed the activities and create a Pull Request as normal.
 
