@@ -16,7 +16,7 @@ Once you have a solution for each activity add it to this repo as an image.
 
 Push your repo once you have completed the activities and create a Pull Request as normal.
 
-## Core Exercise - Hotel Booking System
+## Core Exercise - Restaurant Booking System
 
 #### Epic
 
