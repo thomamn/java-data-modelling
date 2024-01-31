@@ -20,11 +20,11 @@ Push your repo once you have completed the activities and create a Pull Request 
 
 #### Epic
 
-”A local hotel wants to keep a record of room bookings. The hotel has a lot of rooms, but customers will only be able to choose one room per booking. The person who books the room is not necessarily the person providing contact details.”
+”A restaurant wants to introduce an online booking system for their main dining room, which has various tables. The restaurant is open throughout the day so customers can book for a variety of times."
 
 #### User Stories
-- As a customer, so I can have a place to stay tomorrow night, I want to book a room at the hotel.
-- As the hotel owner, so I can expand my business, I want to add new rooms to the hotel.
+- As a customer, so I can have a meal tomorrow night, I want to book a table at the restaurant.
+- As the restaurant owner so that I can manage my business effectively I want to be able to alter the number of tables available at a given time.
 
 Design a simplified booking system for this epic.
 
@@ -36,7 +36,7 @@ Then design the database tables and relationships which would be needed to imple
 
 1. A local candle maker wants to open an online store selling their handmade candles and other artifacts, they need a database system to use as part of this online shop. Details of customers need to be stored, products need to be stored and updated, a record of customer orders also needs to be maintained. Design the database system for the Candle Shop.
 
-2. A restaurant wants to introduce an online booking system for their main dining room, which has various tables. The restaurant is open throughout the day so customers can book for a variety of times.
+2. A car hire compnay with multiple locations wants to design an online system that will allow customers to book various cars, on various dates from different locations. Design the database system that would allow them to effectively manage their business.
 
 3. A University library wishes to implement an online system for borrowing books and other items from the library. Each user will be able to borrow up to 6 items at a time.
 
